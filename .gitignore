@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+favorite_prompts.json
+.DS_Store
